@@ -1,6 +1,6 @@
  -👋 Oi, eu sou José Roberto
 - 👀 Tenho interesse em estágios de desenvolvedor Júnior
-- 🌱 Já estudei Python, Java. Estou estudando HTML5, CSS3, estou tendo aula de tecnicas avançadas de algorítimos, banco de dados e senvolvimento de softwere .
+- 🌱 Já estudei Python, Java. Estou estudando HTML5, CSS3, estou tendo aula de tecnicas avançadas de algorítimos, banco de dados , processos de desenvolvimento e Análise e Projeto.
 - Faço Analise e desenvolvimento de sistemas pelo IFPB campus Monteiro-PB
 - 💞️ Estou procurando entarar no mercado de trabalho como desenvolvedor Júnior.
 - 📫 Você me acha no instagram @farias_robertoo .
