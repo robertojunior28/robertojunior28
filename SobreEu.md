@@ -1,5 +1,5 @@
- -👋 Oi, eu sou José Roberto
-- 👀 Sou estagiário na empresa UOL Compass 
+  -👋 Oi, eu sou José Roberto
+- 👀 Sou estagiário na empresa Compass.UOL
 - 🌱 Já estudei Python, Java, HTML5, CSS3, PostgreSLQ, MongoDB, Spring, Processos de metodologia ágil, git e github.
 - Faço Analise e desenvolvimento de sistemas pelo IFPB campus Monteiro-PB
 - 💞️ Estou procurando entarar no mercado de trabalho como desenvolvedor Júnior.
